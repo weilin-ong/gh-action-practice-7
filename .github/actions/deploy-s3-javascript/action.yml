@@ -1,0 +1,5 @@
+name: 'Javascript action'
+description: 'Execute simple Javascript function'
+runs:
+  using: 'node16'
+  main: main.js
